@@ -3,7 +3,7 @@
 :root{
     --branco: white;
     --cor-de-fundo: #010d1a;
-    --fundo-senha: #4d0cb6;
+    --fundo-senha: #6c1af1;
     --fundo-texto: #0c0938;
     --borda: #2f0753;
     --roboto: 'Roboto', sans-serif;
@@ -127,8 +127,8 @@ label{
     bottom: 30px;
 }
 .fraca{
-    width: 25%;
-    background-color: #d3e71b; 
+    width: 30%;
+    background-color: #f9f637; 
 }
 .media{
     background-color: #fa9108;
